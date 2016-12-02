@@ -6532,7 +6532,6 @@ L.LatLngBounds.prototype = {
 	getEast: function () {
 		return this._northEast.lng;
 	},
-
 	getNorth: function () {
 		return this._northEast.lat;
 	},
